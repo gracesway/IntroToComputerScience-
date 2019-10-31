@@ -213,4 +213,6 @@ public class FracCalc {
     	return whole + "_" + num + "/" + den; 
     }
     
+    // ggthis is where I practice making changes to a project. 
+    
 }
